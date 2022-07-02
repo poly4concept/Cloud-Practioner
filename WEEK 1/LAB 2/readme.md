@@ -21,5 +21,13 @@ Your task in this lab is to create
 2. Enforce a password policy
 3. Perform clean up operations
 
+## Solution
+1. I created 5 groups with names technicalexperts, technicalsupports, storageexperts, adminsupports and financehead
+2. I created users Dele, Ade, Segun, Gbenga and Sharon and added them to their respective groups
+   
+   > Here is sample of one:
+   ![MFA](userscreate.PNG)
+
+
 Guides:
 https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html

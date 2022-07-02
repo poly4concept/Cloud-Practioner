@@ -17,6 +17,15 @@ At the end of the lab, you should perform clean up operations.
 
 
 
+## Working in Billing Unit
+
+1. I created a group named BillingFullAccess with policies to have full access to billings and a group named BillingViewAccess with policies to have read only access to billings
+
+2. I created a user Sharon into BillingViewAccess group and user Olaitan into the BillingViewAccess group 
+   
+   > Here is preview:
+   ![BillingFullAccess](financemanager.PNG)
+   ![BillingViewAccess](viewaccess.PNG)
 
 Guides:
 
